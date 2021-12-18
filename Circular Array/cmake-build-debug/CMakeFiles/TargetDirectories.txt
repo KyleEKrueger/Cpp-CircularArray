@@ -1,0 +1,3 @@
+/home/imakepoptarts/CLionProjects/Program1Attempt3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/imakepoptarts/CLionProjects/Program1Attempt3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/imakepoptarts/CLionProjects/Program1Attempt3/cmake-build-debug/CMakeFiles/prog1.dir

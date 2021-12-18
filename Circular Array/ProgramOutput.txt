@@ -1,0 +1,18 @@
+/home/imakepoptarts/CLionProjects/Program1Attempt3/cmake-build-debug/prog1
+---- Version Report ----
+|  Main Version:  0.2  |
+|     Queue ADT:  0.2  |
+|      List ADT:  0.1  |
+------------------------
+Testing Copy Constructor . . Copying . . .PASS
+Testing Clear 1024 int . . . PASS
+Testing Clear 1024 char . . . PASS
+Testing Size 1024 items . . . PASS
+Testing Size 1023 items . . . FAIL
+Testing Peek 1024 items . . . PASS
+Testing Dequeue 1024 items . . . PASS
+Testing Enqueue 1024 items . . . PASS
+Testing Get(int) 2000001 items . . . PASS
+Testing Remove(-1) . . . [CircularArray<T>::remove(idx) : index out of range.]PASS
+Testing removeLast . . . [Test 2]PASS
+Complete!

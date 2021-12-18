@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/imakepoptarts/CLionProjects/Program1Attempt3/CircularArray.h
+Queue.h
+/home/imakepoptarts/CLionProjects/Program1Attempt3/Queue.h
+List.h
+/home/imakepoptarts/CLionProjects/Program1Attempt3/List.h
+cstring
+-
+
+/home/imakepoptarts/CLionProjects/Program1Attempt3/List.h
+
+/home/imakepoptarts/CLionProjects/Program1Attempt3/Queue.h
+
+/home/imakepoptarts/CLionProjects/Program1Attempt3/main.cpp
+iostream
+-
+iomanip
+-
+Queue.h
+/home/imakepoptarts/CLionProjects/Program1Attempt3/Queue.h
+List.h
+/home/imakepoptarts/CLionProjects/Program1Attempt3/List.h
+CircularArray.h
+/home/imakepoptarts/CLionProjects/Program1Attempt3/CircularArray.h
+
